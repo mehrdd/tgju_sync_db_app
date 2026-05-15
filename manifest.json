@@ -1,0 +1,10 @@
+{
+    "type": "tar+pigz+split",
+    "basename": "export",
+    "chunk_mb": 10,
+    "level": 9,
+    "parts": [
+        "export.tar.gz.part000"
+    ],
+    "createdAt": "2026-05-15T06:25:08+03:30"
+}
